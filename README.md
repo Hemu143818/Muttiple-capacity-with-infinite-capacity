@@ -1,3 +1,5 @@
+# DATE:25.02.26
+
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ```
 # Name:k hemanth yadav
