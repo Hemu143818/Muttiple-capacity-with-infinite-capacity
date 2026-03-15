@@ -1,6 +1,6 @@
 # DATE:25.02.26
 
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# ex5: Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ```
 # Name:k hemanth yadav
 # Reg no.:212224100033
